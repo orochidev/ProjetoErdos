@@ -1,0 +1,3 @@
+class Erdo < Aresta
+
+end
