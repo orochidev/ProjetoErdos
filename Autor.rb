@@ -1,3 +1,0 @@
-class Autor < Vertice
-
-end
